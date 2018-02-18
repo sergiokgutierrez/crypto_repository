@@ -3,4 +3,8 @@ public class hello{
 		System.out.println("hello world");
 		System.out.println("gangsta as fuck");
 	}
+	public static int sum(int x, int y){
+		return x +y;
+	}
+
 }
